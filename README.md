@@ -3,7 +3,7 @@ This study analyzed features influencing student cognitive-motivational engageme
 
 ![image](./Figure_1.jpg)
 
-# Commond for runing codes
+# Running Commond
 1. Extract the x_data_scale_final.rar file in the data path;
 2. Run the CV-data.py to generate datasets for five-fold validation;
 3. Run XGB.py to train the XGBoost model and evaluate its performance, and analyze feature importances.
